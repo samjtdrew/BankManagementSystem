@@ -1,0 +1,13 @@
+[ODBC]
+DRIVER=ODBC Driver 17 for SQL Server
+UID=SecureAccount
+PWD=JC12-0101-Plex
+TrustServerCertificate=Yes
+Encrypt=Yes
+LANGUAGE=us_english
+DATABASE=BankingAuthentication
+WSID=ADELE
+APP=Microsoft® Windows® Operating System
+Trusted_Connection=No
+SERVER=192.168.86.40
+Description=ODBC Connection To SQL DB
